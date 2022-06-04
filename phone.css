@@ -1,0 +1,43 @@
+.container{
+    height: 500px;
+}
+.btn{
+    top: 20%;
+    left: 45%;
+    width: 60px;
+    font-size: 0.7em;
+}
+.btn1{
+    top: 60%;
+    left: 45%;
+    padding: 4px;
+    width: 60px;
+    font-size: 0.6em;
+
+}
+.btn2{
+    top: 70%;
+    left: 45%;
+    padding: 4px;
+    width: 60px;
+    font-size: 0.7em;
+
+}
+.current{
+    width: 70%;
+}
+.Player1{
+    font-size: 1.5em;
+}
+.Current{
+    height: 20px;
+}
+.current-score--0{
+    font-size: 1em;
+}
+.current-score--1{
+    font-size: 1em;
+}
+.Current{
+    font-size: 1em;
+}
